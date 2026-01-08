@@ -1,0 +1,7 @@
+{
+  "name": "EgoMirror - Inner Sanctuary",
+  "description": "A compassionate voice-first sanctuary for introverts and those seeking an empathetic listener. Connect with your inner mirror through the Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
